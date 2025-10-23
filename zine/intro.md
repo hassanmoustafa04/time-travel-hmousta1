@@ -7,3 +7,4 @@ Clocks act strangely near time machines.
 ---
 ## layout rules
 - use headings and short sections.
+ending: the time machine vanishes into a loop.
