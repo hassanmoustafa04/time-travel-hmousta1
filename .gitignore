@@ -1,0 +1,6 @@
+# macOS junk
+.DS_Store
+
+# java/maven build outputs
+target/
+*.class
